@@ -6,6 +6,6 @@
         <title>document</title>
     </head>
         <body>
-            <center><h1><n>CONTACT funciona</n></h1></center>
+            <center><h1><n>CONTACT Funciona</n></h1></center>
         </body>
 </html>
